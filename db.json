@@ -1,3 +1,16 @@
 {
-    "books": []
+  "books": [
+    {
+      "title": "Dark Brown",
+      "id": "bf3c"
+    },
+    {
+      "id": "9a90",
+      "title": "Test"
+    },
+    {
+      "id": "4a7a",
+      "title": "test2"
+    }
+  ]
 }
